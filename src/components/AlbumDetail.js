@@ -2,7 +2,7 @@
 //<image> le immagini non vengono sempre visualizzate di default -> devo mettere uno style con le dime
 
 import React, { Component } from 'react';
-import { Text, View, Image, StyleSheet } from 'react-native';
+import { Text, View, Image, StyleSheet, Linking } from 'react-native';
 import Card from './Card';
 import CardSection from './CardSection';
 import Button from './Button';
